@@ -1,0 +1,8 @@
+# ignore everything ... except source files
+*
+!/**/
+!*.*
+
+tut03-2/
+**/a.out
+
