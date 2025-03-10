@@ -1,6 +1,6 @@
 # ignore everything ... except source files
 *
-!/**/
+!/tut0*/
 !*.*
 
 tut03-2/
